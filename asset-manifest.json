@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-js-simple-todo-application.git/static/css/main.8cdf6ac9.chunk.css",
+    "main.js": "/React-js-simple-todo-application.git/static/js/main.064e54d8.chunk.js",
+    "main.js.map": "/React-js-simple-todo-application.git/static/js/main.064e54d8.chunk.js.map",
+    "runtime-main.js": "/React-js-simple-todo-application.git/static/js/runtime-main.5838aa48.js",
+    "runtime-main.js.map": "/React-js-simple-todo-application.git/static/js/runtime-main.5838aa48.js.map",
+    "static/js/2.8eeed424.chunk.js": "/React-js-simple-todo-application.git/static/js/2.8eeed424.chunk.js",
+    "static/js/2.8eeed424.chunk.js.map": "/React-js-simple-todo-application.git/static/js/2.8eeed424.chunk.js.map",
+    "static/js/3.c61514d6.chunk.js": "/React-js-simple-todo-application.git/static/js/3.c61514d6.chunk.js",
+    "static/js/3.c61514d6.chunk.js.map": "/React-js-simple-todo-application.git/static/js/3.c61514d6.chunk.js.map",
+    "index.html": "/React-js-simple-todo-application.git/index.html",
+    "static/css/main.8cdf6ac9.chunk.css.map": "/React-js-simple-todo-application.git/static/css/main.8cdf6ac9.chunk.css.map",
+    "static/js/2.8eeed424.chunk.js.LICENSE.txt": "/React-js-simple-todo-application.git/static/js/2.8eeed424.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5838aa48.js",
+    "static/js/2.8eeed424.chunk.js",
+    "static/css/main.8cdf6ac9.chunk.css",
+    "static/js/main.064e54d8.chunk.js"
+  ]
+}
